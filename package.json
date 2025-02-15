@@ -4,7 +4,8 @@
   "description": "Electron Process Monitor is a desktop application built with **Electron** and **TypeScript** that allows users to monitor and manage running processes on their operating system.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron .",
+    "build": "tsc && electron ."
   },
   "repository": {
     "type": "git",
