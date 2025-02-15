@@ -1,0 +1,25 @@
+{
+  "name": "electron-process-monitor",
+  "version": "1.0.0",
+  "description": "Electron Process Monitor is a desktop application built with **Electron** and **TypeScript** that allows users to monitor and manage running processes on their operating system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosecosmesilva/electron-process-monitor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosecosmesilva/electron-process-monitor/issues"
+  },
+  "homepage": "https://github.com/carlosecosmesilva/electron-process-monitor#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "electron": "^34.2.0",
+    "typescript": "^5.7.3"
+  }
+}

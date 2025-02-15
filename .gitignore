@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Output directories
+dist/
+build/
+out/
+
+# Electron
+electron/dist/
+electron/build/
+electron/out/
+
+# VSCode
+.vscode/
+.history/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
